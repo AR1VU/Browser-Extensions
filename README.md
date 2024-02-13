@@ -6,7 +6,7 @@ Useful extensions for chromium based browsers
 
 
 ## Installation
-1. Download the code: [Download](https://codeload.github.com/AR1VU/SiteBlocker/zip/refs/heads/main)
+1. Download the code from the latest release of the extension you want
 2. Extract the files to your desktop
 3. Open your browser extention settings `chrome://extensions/`
 4. Enable Developer Mode
